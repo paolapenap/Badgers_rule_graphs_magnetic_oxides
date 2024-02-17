@@ -1,4 +1,3 @@
-# First_Repository_text
-Fisrt Repository created in course "Tools for Machine Learning"
+# Repository_text
 
-First line of Readme file. Here the decription of files can be done.
+Several graphs for proving and testing different forms of Badger's rule in Raman spectroscopy data of columbite magnetic oxides. 
